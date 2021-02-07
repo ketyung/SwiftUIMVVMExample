@@ -11,7 +11,10 @@ import SwiftUI
 struct SwiftUIMVVMExampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+           // TestView()
+           //Example3()
+            Menu()
         }
     }
 }

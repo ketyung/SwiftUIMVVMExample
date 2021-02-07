@@ -1,0 +1,6 @@
+[
+    {"title":"Example 1 - Model is directly used by View - No ViewModel in between - a very simple app may not need a ViewModel in between - data from the Model can just be displayed on the View right away", "pushToViewType": "example1"},
+    {"title":"Example 2 - MVVM example - ViewModel as a bridge between the Model and the View", "pushToViewType": "example2"},
+    {"title":"Example 3 - MVVM example with data loaded from JSON in local bundle - employees filtered by number of years served in company", "pushToViewType": "example3"},
+   {"title":"Example 4 - MVVM example with data loaded from JSON from remote URL - employees filtered by department", "pushToViewType": "example4"}
+]
