@@ -45,3 +45,11 @@ struct ScrollViewOfYearRanges : View {
         
     }
 }
+
+
+
+struct ScrollViewOfYearRanges_Previews: PreviewProvider {
+    static var previews: some View {
+        ScrollViewOfYearRanges(employeeViewModel:  EmployeeViewModel())
+    }
+}
