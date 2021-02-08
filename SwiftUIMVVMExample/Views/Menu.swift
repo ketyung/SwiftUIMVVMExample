@@ -13,6 +13,7 @@ enum PushToViewType : String, Decodable {
     case example2
     case example3
     case example4
+    case blogpost
 }
 
 
@@ -72,6 +73,8 @@ extension Menu {
                 Example3()
             case .example4 :
                 Example4()
+            case .blogpost :
+                WebView(urlString: "https://blog.techchee.com/swiftui-mvvm-with-practical-examples/")
                 
         }
     }

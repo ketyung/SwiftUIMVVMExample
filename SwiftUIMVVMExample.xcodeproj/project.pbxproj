@@ -22,6 +22,7 @@
 		10EB2BF125CE15B0002D250E /* Example2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB2BF025CE15B0002D250E /* Example2.swift */; };
 		10EB2BF625CE55C8002D250E /* EmployeeRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB2BF525CE55C8002D250E /* EmployeeRowView.swift */; };
 		10EB2BFA25CE5910002D250E /* ScrollViewOfYearRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB2BF925CE5910002D250E /* ScrollViewOfYearRanges.swift */; };
+		10EB2BFF25D11DA2002D250E /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EB2BFE25D11DA2002D250E /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		10EB2BF025CE15B0002D250E /* Example2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example2.swift; sourceTree = "<group>"; };
 		10EB2BF525CE55C8002D250E /* EmployeeRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmployeeRowView.swift; sourceTree = "<group>"; };
 		10EB2BF925CE5910002D250E /* ScrollViewOfYearRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewOfYearRanges.swift; sourceTree = "<group>"; };
+		10EB2BFE25D11DA2002D250E /* WebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				10EB2BF025CE15B0002D250E /* Example2.swift */,
 				10EB2BC225CB7FA1002D250E /* Example3.swift */,
 				10EB2BE425CD3383002D250E /* Example4.swift */,
+				10EB2BFE25D11DA2002D250E /* WebView.swift */,
 				10EB2BF525CE55C8002D250E /* EmployeeRowView.swift */,
 				10EB2BF925CE5910002D250E /* ScrollViewOfYearRanges.swift */,
 			);
@@ -214,6 +217,7 @@
 				10EB2BD625CB808B002D250E /* EmployeeViewModel.swift in Sources */,
 				10EB2BE525CD3383002D250E /* Example4.swift in Sources */,
 				10EB2BF125CE15B0002D250E /* Example2.swift in Sources */,
+				10EB2BFF25D11DA2002D250E /* WebView.swift in Sources */,
 				10EB2BC125CB7FA1002D250E /* SwiftUIMVVMExampleApp.swift in Sources */,
 				10EB2BF625CE55C8002D250E /* EmployeeRowView.swift in Sources */,
 			);
